@@ -20,4 +20,4 @@ This project is made public to be able to reference it in the package.json of my
 
 Also: this is a copy of npm version 0.9.7 because the project i'm working on is using react-native < 0.40
 
-I won't be making any changes or updates to this. Please use the [`orignial project`](https://github.com/rebeccahughes/react-native-device-info) for your own use:
+I won't be making any changes or updates to this. Please use the [`orignial project`](https://github.com/rebeccahughes/react-native-device-info) for your own use. Unless of course you ran into the same issues as me ;)
