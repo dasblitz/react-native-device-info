@@ -1,0 +1,21 @@
+{
+  "name": "react-native-device-info",
+  "version": "0.9.7",
+  "description": "Get device information using react-native",
+  "main": "deviceinfo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rebeccahughes/react-native-device-info"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "device",
+    "events",
+    "cocoapod"
+  ],
+  "author": "Rebecca Hughes <rebecca@learnium.net> (https://github.com/rebeccahughes)",
+  "license": "MIT"
+}
