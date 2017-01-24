@@ -1,9 +1,3 @@
-# react-native-device-info
-
-[![npm version](https://badge.fury.io/js/react-native-device-info.svg)](http://badge.fury.io/js/react-native-device-info)
-
-Device Information for [React Native](https://github.com/facebook/react-native)
-
 ## Original project
 
 This is a modification of the following repository
